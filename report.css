@@ -1,0 +1,58 @@
+h1{
+    color: tomato;
+}
+
+#title{
+    margin-top: 100;
+    margin-left: 220;
+    margin-right: 100;
+    font-size: xx-large;
+}
+#project{
+    font-weight: bold;
+    margin-left: 350;
+    margin-right: 100;
+    margin-bottom: 200;
+    color: black;
+}
+#name{
+    
+    margin-top: 200;
+    margin-left: 400;
+    margin-right: 100;
+    margin-bottom: 200;
+    color: black;
+}
+#scrolling_images{
+    height: 600;
+    margin-left: 150;
+    margin-right: 150;
+    margin-top: 20;
+    width: fit-content;
+}
+
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/05/14/08/37/360_F_514083702_FUEIw66GVxXo1hiwbj7gDIOowB04IXfT.jpg");
+    background-color: #ffff;
+}
+
+#main_div{
+    margin-top: 100;
+}
+#inside_content{
+    text-align: center;
+    align-items: center;
+}
+
+#headings{
+    margin-top: 30;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+
+#inside_image{
+    margin-top: 50;
+text-align: center;
+align-items: center;
+}
