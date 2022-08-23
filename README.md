@@ -17,7 +17,7 @@ We have distribute our task in to two member so that beacause in short time we h
 
 ![](https://github.com/engrtanveerahmed/MPPT/blob/main/pic%20of%20major%20component/task%20distributins.PNG?raw=true)
 
-##Higher level Diagram
+## Higher level Diagram
 
 ![](https://github.com/engrtanveerahmed/MPPT/blob/main/pic%20of%20major%20component/BD.png?raw=true)
 
@@ -36,12 +36,12 @@ The low-power Microchip 8-bit AVR RISC-based microcontroller featuring 32KB self
 ###### USB mini:
 The small USB is used in digitil devices like digital cameras, external hard drives, USB hubs and other equipment. Mini USB is much smaller than USB Type A and B but twice as thick as Micro USB. We have used this componant as we could burn our code easily on the microcontroller.
 
-![]()
+![](https://github.com/engrtanveerahmed/MPPT/blob/main/pic%20of%20major%20component/usb%20min.PNG?raw=true)
 
 ##### INA213 (Current sense amplifier):
 The INA21x are voltage-output, current-shunt monitors (also called current-sense amplifiers) that are commonly used for overcurrent protection, precision-current measurement for system optimization, or in closed-loop feedback circuits. This series of devices can sense drops across shunts at common-mode voltages from 0.3 V to 26 V, independent of the supply voltage. Six fixed gains are available: 50 V/V, 75 V/V, 100 V/V, 200 V/V, 500 V/V, or 1000 V/V. The low offset of the zero-drift architecture enables current sensing with maximum drops across the shunt as low as 10-mV full-scale. These devices operate from a single 2.7-V to 26-V power supply, drawing a maximum of 100 uA of supply current. All versions are specified over the extended operating temperature range (40°C to +125°C), and offered in SC70 and UQFN packages. We have used this componant as to sense the input and output voltage/current to track the working of the MPPT.
 
-![]()
+![](https://github.com/engrtanveerahmed/MPPT/blob/main/pic%20of%20major%20component/ir2104.png?raw=true)
 
 ##### IR2104 (Half-bridge):
 The discrete Half-bridge driver based on IR2104 gate driver IC and low impedance high current N channel IRFP4368 MOSFETS , The IR2104 is a high voltage, high speed power MOSFET driver with independent high and low side referenced output channels. We have used this componant to derive the mosfets.
