@@ -206,64 +206,31 @@ Followings are the CAD design pictures with dimensions:
 ![](https://github.com/engrtanveerahmed/MPPT/blob/main/auto%20cade%20design%20pics/p3.PNG)
 
 
-Business model
+## Business model
 
 ![](https://github.com/engrtanveerahmed/MPPT/blob/main/pic%20of%20major%20component/business%20model.PNG)
 
 Every product which needs to be in the market requires a good business plan. for our product, we considered few major point regarding its cost and its users. As our project is user friendly in terms of its size, the size increases the durability. One can carry it anywhere to be used. Furthermore, solar charges(MPPT based) are very expensive products, we used such components which are commonly available and are cheap. With these two major advantages, we hope to cover a good number of users of our products when released in the market.
-References
-(1)soldernerd web site link review 1
-https://soldernerd.com/2016/01/21/arduino-mppt-solar-charger-shield/" target
 
-2- http://www.leonics.com/support/article2_14j/articles2_14j_en.php
 
-3- http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+## References
 
-4. https://forum.arduino.cc/index.php?topic=125252.0
+[soldernerd web site link review](https://soldernerd.com/2016/01/21/arduino-mppt-solar-charger-shield/)
 
-(5)Dr. Muhammad Asim Samejo (Assistant Professor at Sukkur IBA University,Pakistan)
-http://www.iba-suk.edu.pk/faculty/details/INS-0011" target
+[Basics of MPPT Solar Charge Controller](http://www.leonics.com/support/article2_14j/articles2_14j_en.php)
 
-(6)Engr. Aizaz Ali Larik (Lab Engineer at Sukkur IBA University,Pakistan)
-http://www.iba-suk.edu.pk/faculty/details/INS-0424" target
+[AVR-ATmega16U4-32U4_Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
 
-(7)Engr. Aizaz Ali Larik (Lab Engineer at Sukkur IBA University,Pakistan)
-http://www.iba-suk.edu.pk/faculty/details/INS-0424" target
+[Leonardo Timer trouble…](https://forum.arduino.cc/index.php?topic=125252.)
 
-(8)Nadir Ali (Fab Lab Attendant at Sukkur IBA University, Pakistan)
-"nadir.ali@iba-suk.edu.pk" target
+[Tanveer Ahmed (Stutentof Sukkur IBA University, Pakistan)](https://github.com/engrtanveerahmed)
 
-(9)Tanveer Ahmed (Stutentof Sukkur IBA University, Pakistan)
-tanveerahmed.beef20@iba-suk.edu.pk" target
+[MPPT Autocade Design file](https://github.com/engrtanveerahmed/MPPT/tree/main/Autocade%20design%20file)
 
-(10)HabibullH (Stutentof Sukkur IBA University, Pakistan)
-habbibullah.beef20@iba-suk.edu.pk" target
+[Mppt Eagle file](https://github.com/engrtanveerahmed/MPPT/tree/main/Eagle%20file)
 
-Contact Us
-Tanveer Ahmed (Undergraduate Electrical Engineering Student at Sukkur IBA University, Pakistan)
+[Mppt Audino Source Code file](https://github.com/engrtanveerahmed/MPPT/tree/main/source%20code/SolarPanelchk)
 
-Email: tanveerahmed.beef20@iba-suk.edu.pk
-
-Contact: +92 303 3005395 
-
- 
-
-Habibullah (Undergraduate Electrical Engineering Student at Sukkur IBA University, Pakistan)
-
-Email: habibullah.beef20@iba-suk.edu.pk
-
-Contact: +92 304 0900929 
-
- 
-
-Zip file containing 3D Design
-Mppt Auto cade file
-
-link contain Eagle file
-Mppt Eagle file
-
-Source Code file
-Mppt Audino code
 
 ## Conclusion
 This project was full of learning.We made PCB cricuit three time, the reanson in first board our USB mini port beacme short while sodering because the have small pins we learnt that do soldering carifully a single mistake can distured whole PCB, we made a seconde PCB this time we do soldering care fully but our circuit became short beacuse circuit is large so for this we check continuity test but it work was really time consuming because circuit is large finally we made last circuit it works our pervious PCB boards don not go weste we leart alot from them,but this not good practice because material goes weste we need do things carefully while making eagle file Dia of SRM matchune when it comes to microcontroller, soldering selection of component like we add big capactor which consume whole size of our PCB, We had a lot of practical interaction with our theoratical knowledge. This project proved a golden oppurtunity as we implemented most of our theoratical knowledge.Milling a PCB, designing an enclosure.etc. all of these experiences proved fruitful in increasing our skills and capabilty to do experiments and troubleshooting. In future, we have decided to continue such kind of practice for further learning and skill development.
